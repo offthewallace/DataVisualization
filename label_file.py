@@ -12,11 +12,11 @@ from labelme import QT4
 from labelme import utils
 
 
-class LabelFileError(Exception):
+class LabelFileXXXXXX(Exception):
     pass
 
 
-class LabelFile(object):
+class LaXXXXXXXFile(object):
 
     suffix = '.json'
 
